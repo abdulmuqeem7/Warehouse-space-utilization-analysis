@@ -39,7 +39,9 @@ Delivery logs
 
 Warehouse locations and SKU metadata
 
-🎯 Use Cases
+🎯 Use Cases:
+
+
 Monitor inventory health across regions
 
 Identify supply chain bottlenecks
