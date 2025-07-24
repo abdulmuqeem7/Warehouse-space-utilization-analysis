@@ -49,3 +49,7 @@ Identify supply chain bottlenecks
 Optimize restocking cycles
 
 Track warehouse performance KPIs
+
+[warehouse power bi.pdf](https://github.com/user-attachments/files/21412813/warehouse.power.bi.pdf)
+
+
